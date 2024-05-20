@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.dark-mode {
+    background-color: #333; 
+    color: #fff; 
+}
+
+
+.light-mode {
+    background-color: #fff; 
+    color: #333; 
+}
+
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.dark-mode .btn {
+    background-color: #555;
+    color: #fff;
+}
+
+
+.light-mode .btn {
+    background-color: #ccc;
+    color: #333;
+}
+
+
